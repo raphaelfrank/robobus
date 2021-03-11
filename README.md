@@ -4,7 +4,7 @@ Academic datasets are an important source of information to validate and benchma
 ## Dataset
 
 ### Data Format
-
+```
 [CSV_FILE]
 |
 +--[TYPE]
@@ -12,32 +12,32 @@ Academic datasets are an important source of information to validate and benchma
 +--[TIME (ms)]
 |
 +--[CAN_DATA (type 1)]
-|	 |
+|  |
 |  +—[VEHICLE_SPEED (km/h)]
 +--[CAN_DATA (type 2)]
-|	 |
+|  |
 |  +—[ACC_PEDAL_POSITION]
 +--[CAN_DATA (type 3)]
-|	 |
+|  |
 |  +—[BRK_PEDAL_POSITION]
 +--[CAN_DATA (type 4)]
-|	 |
+|  |
 |  +—[STE_WHEEL_ANGLE]
 +--[IMU_DATA (type 50, 51 and 52)]
-|	 |
+|  |
 |  +—[ACC/MAG/GYR X]
 |  +—[ACC/MAG/GYR Y]
 |  +—[ACC/MAG/GYR Z]
 +--[GNSS_DATA (type 100)]
-|	 |
+|  |
 |  +—[TIMESTAMP]
 |  +—[LATITUDE]
 |  +—[LONGITUDE]
 |  +—[ALTITUDE]
 +--[CAMERA_INFO (type 201 and 202 )]
-|	 |
+|  |
 |  +—[PATH_TO_IMAGE]
-
+```
 ### Example Images
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
 
