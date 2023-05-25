@@ -55,7 +55,7 @@ For the detailed description of the dataset, please refer to our [paper](https:/
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
 
 ## Downloads
-The total dataset is ~67GB and can be downloaded [here](https://dropit.uni.lu/invitations?share=c73d2e4064ec02181159).
+The total dataset is ~67GB and can be downloaded [here](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/raphael_frank_uni_lu/En6-LdcLQsBChOT90otp4RsBqo2a-HDHoxg8ntdjZYCVHg?e=JvngzB).
 
 ## Acknowledments
 This work has been financially supported by the [EU INTERREG GR Terminal project](https://terminal-interreg.eu/en/a-lighthouse-project-on-mobility-in-the-greater-region-2/). The authors would also like to thank Voyages Emile Weber Luxembourg for their support and for granting us access to their bus.
